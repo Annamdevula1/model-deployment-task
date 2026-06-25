@@ -1,0 +1,20 @@
+import streamlit as st
+import pickle
+import numpy as np
+
+model = pickle.load(open('model.pkl', 'rb'))
+
+st.title("House Price Prediction")
+
+bedrooms = st.number_input("Bedrooms")
+bathrooms = st.number_input("Bathrooms")
+floors = st.number_input("Floors")
+sqft_living = st.number_input("Sqft Living")
+sqft_above = st.number_input("Sqft Above")
+
+if st.button("Predict Price"):
+    prediction = model.predict(
+        np.array([[bedrooms, bathrooms, floors, sqft_living, sqft_above]])
+    )
+
+    st.success(f"Predicted House Price: {prediction[0]:.2f}")
