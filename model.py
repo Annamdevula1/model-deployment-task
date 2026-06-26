@@ -6,7 +6,7 @@ import pickle
 df = pd.read_csv("data.csv")
 
 # Select features and target
-X = df[['bedrooms', 'bathrooms', 'floors', 'sqft_living', 'sqft_above']]
+X = df[['bedrooms', 'bathrooms', 'floors', 'sqft_living']]
 y = df['price']
 
 # Train model
