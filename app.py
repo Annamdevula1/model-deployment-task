@@ -14,7 +14,7 @@ sqft_living = st.number_input("Sqft Living")
 
 if st.button("Predict Price"):
     prediction = model.predict(
-        np.array([[bedrooms, bathrooms, floors, sqft_living, sqft_above]])
+        np.array([[bedrooms, bathrooms, floors, sqft_living]])
     )
 
     st.success(f"Predicted House Price: {prediction[0]:.2f}")
