@@ -1,4 +1,3 @@
-
                                *HOUSE PRICE PREDICTION*
 Project Banner
 
