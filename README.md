@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/f0f55b84-f415-48e0-ae02-65464aa1d178" /># model-deployment-task
+
                                *HOUSE PRICE PREDICTION*
 Project Banner
 
