@@ -10,7 +10,7 @@ bedrooms = st.number_input("Bedrooms")
 bathrooms = st.number_input("Bathrooms")
 floors = st.number_input("Floors")
 sqft_living = st.number_input("Sqft Living")
-sqft_above = st.number_input("Sqft Above")
+
 
 if st.button("Predict Price"):
     prediction = model.predict(
