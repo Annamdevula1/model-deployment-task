@@ -5,8 +5,10 @@ import numpy as np
 # Load the trained model
 model = joblib.load("trained_model.pkl")
 
+# App title
 st.title("House Price Prediction")
 
+# User inputs
 bedrooms = st.number_input("Bedrooms")
 bathrooms = st.number_input("Bathrooms")
 sqft_living = st.number_input("Sqft Living")
@@ -20,7 +22,9 @@ sqft_basement = st.number_input("Sqft Basement")
 yr_built = st.number_input("Year Built")
 yr_renovated = st.number_input("Year Renovated")
 
+# Prediction
 if st.button("Predict Price"):
+
     features = np.array([[bedrooms, bathrooms, sqft_living, sqft_lot,
                           floors, waterfront, view, condition,
                           sqft_above, sqft_basement,
@@ -28,8 +32,9 @@ if st.button("Predict Price"):
 
     prediction = model.predict(features)
 
-   st.write(prediction)
+    st.write("Raw Prediction:", prediction)
 
-   st.success(f"Predicted House Price: ₹{float(prediction[0]):,.2f}")
-    
-
+    try:
+        st.success(f"Predicted House Price: ₹{float(prediction[0]):,.2f}")
+    except Exception:
+        st.success(f"Predicted House Price: {prediction}")
