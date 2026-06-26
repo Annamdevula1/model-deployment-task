@@ -11,7 +11,7 @@ X = df[['bedrooms', 'bathrooms', 'sqft_living',
         'view', 'condition', 'sqft_above',
         'sqft_basement', 'yr_built', 'yr_renovated']]
 
-y = df['price']
+y =numeric_df['price']
 
 # Train model
 model = LinearRegression()
