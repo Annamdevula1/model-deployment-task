@@ -28,8 +28,8 @@ if st.button("Predict Price"):
 
     prediction = model.predict(features)
 
-st.write(prediction)
+   st.write(prediction)
 
-st.success(f"Predicted House Price: ₹{float(prediction[0]):,.2f}")
+   st.success(f"Predicted House Price: ₹{float(prediction[0]):,.2f}")
     
 
