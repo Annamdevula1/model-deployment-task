@@ -1,5 +1,5 @@
-# model-deployment-task
-                            *HOUSE PRICE PREDICTION*
+<img width="1920" height="1080" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/f0f55b84-f415-48e0-ae02-65464aa1d178" /># model-deployment-task
+                               *HOUSE PRICE PREDICTION*
 Project Banner
 
 <img width="1536" height="1024" alt="house 1" src="https://github.com/user-attachments/assets/70f89df4-fa97-4cec-8828-8d842fb10c77" />
@@ -17,17 +17,17 @@ data.csv Dataset
 
 Result
 
-<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/a543efab-e70d-4b1d-a8fa-fabaa63b61f9" />
-<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/d29275c7-d5e0-43a6-9e07-12058c739dd8" />
-<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/4a6507c9-1109-4da8-b002-35c61e1feb89" />
-<img width="1920" height="1080" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/85ddb4a5-1799-40a8-86f1-97836e9eb8b0" />
-<img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/f5df29d6-ffb6-44ff-9357-8188ba4bb359" />
-<img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/49e47305-30fb-4638-a72e-3d18f97df377" />
-<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/c885c9da-4f01-4d80-8f35-b251576b4f13" />
-<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/a8810a59-bc65-4da7-865a-9ede63356b8c" />
-<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/a425c637-29d5-4004-a926-4a0dd1ff22e8" />
-<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/f1a7f10c-bdbf-41d9-9cb6-af9f385ebecb" />
+<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/f7a733e6-e973-467a-a13e-74690b7f94f2" />
+<img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/fa2d5caf-2b76-46e9-a897-2aba092e7a31" />
+<img width="1920" height="1080" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/a4251cca-40b5-4b0c-9d47-20b42ee31cc1" />
+<img width="1920" height="1080" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/8ba7f736-3824-4b2b-a494-ec9a5ccef0c2" />
+<img width="1920" height="1080" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/be29704f-71f6-48fe-a14b-423bc1aa6148" />
+<img width="1920" height="1080" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/e29aa694-9a2c-411f-8626-5e0ad7acb14c" />
+<img width="1920" height="1080" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/c493aa1f-317b-4197-8300-6cde4514094b" />
 
+COLAB LINK:
+
+https://colab.research.google.com/drive/1nN48dAXcX3IYdEW3FdOtNdY-nvq3NetB?usp=sharing
 ## Features
 - User input interface
 - House price prediction
