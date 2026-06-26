@@ -1,7 +1,8 @@
                                *HOUSE PRICE PREDICTION*
 Project Banner
 
-<img width="1536" height="1024" alt="house 1" src="https://github.com/user-attachments/assets/70f89df4-fa97-4cec-8828-8d842fb10c77" />
+<img width="1536" height="1024" alt="HOUSE" src="https://github.com/user-attachments/assets/283192b0-2503-4230-bf82-00226e6c03b9" />
+
 
 ## Objective
 Deploy a Machine Learning model using Streamlit.
@@ -16,13 +17,15 @@ data.csv Dataset
 
 Result
 
-<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/f7a733e6-e973-467a-a13e-74690b7f94f2" />
-<img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/fa2d5caf-2b76-46e9-a897-2aba092e7a31" />
-<img width="1920" height="1080" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/a4251cca-40b5-4b0c-9d47-20b42ee31cc1" />
-<img width="1920" height="1080" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/8ba7f736-3824-4b2b-a494-ec9a5ccef0c2" />
-<img width="1920" height="1080" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/be29704f-71f6-48fe-a14b-423bc1aa6148" />
-<img width="1920" height="1080" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/e29aa694-9a2c-411f-8626-5e0ad7acb14c" />
-<img width="1920" height="1080" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/c493aa1f-317b-4197-8300-6cde4514094b" />
+<img width="1920" height="1080" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/ce5424a1-e26e-43b4-bffd-e79a62a8a18d" />
+<img width="1920" height="1080" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/9ffb818c-3330-4e76-b3b9-8b437628c432" />
+<img width="1920" height="1080" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/3646f575-2833-4566-abe1-35d96fcd3d86" />
+<img width="1920" height="1080" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/65d5d267-698c-41bd-828b-05e6ffc94e1b" />
+<img width="1920" height="1080" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/60821f9f-bf47-4f33-9ae0-e13596aad597" />
+<img width="1920" height="1080" alt="Screenshot (178)" src="https://github.com/user-attachments/assets/67c9d0f9-0d9c-409d-a639-72eb3b0298d7" />
+<img width="1920" height="1080" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/0e410a8e-4bf5-4c60-93bf-575fc1ddc373" />
+<img width="1920" height="1080" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/26a5d193-1c51-4eae-a086-15541bf93ae4" />
+<img width="1920" height="1080" alt="Screenshot (181)" src="https://github.com/user-attachments/assets/6ee22ecf-33e1-46fd-aec6-6fc5db6cb633" />
 
 COLAB LINK:
 
