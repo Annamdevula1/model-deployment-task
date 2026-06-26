@@ -2,7 +2,7 @@ import streamlit as st
 import joblib
 import numpy as np
 
-model = joblib.load('trained_model.pkl', 'rb')
+model = joblib.load('trained_model.pkl')
 
 st.title("House Price Prediction")
 
