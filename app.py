@@ -9,7 +9,7 @@ model = joblib.load("trained_model.pkl")
 st.title("🏠 House Price Prediction")
 
 # Display House Image
-st.image("files/HOUSE.jpeg", use_container_width=True)
+st.image("HOUSE.jpeg", use_container_width=True)
 
 # Description
 st.write("Fill in the house details below and click 'Predict House Price'.")
