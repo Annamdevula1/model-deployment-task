@@ -1,6 +1,6 @@
 import streamlit as st
 import joblib
-import numpy as np
+import pandas as pd
 
 # Load trained model
 model = joblib.load("trained_model.pkl")
@@ -30,10 +30,21 @@ yr_renovated = st.number_input("Year Renovated", value=0)
 
 # Prediction
 if st.button("Predict House Price"):
-    features = np.array([[bedrooms, bathrooms, sqft_living, sqft_lot,
-                          floors, waterfront, view, condition,
-                          sqft_above, sqft_basement,
-                          yr_built, yr_renovated]])
+    features = pd.DataFrame({
+    "bedrooms": [bedrooms],
+    "bathrooms": [bathrooms],
+    "sqft_living": [sqft_living],
+    "sqft_lot": [sqft_lot],
+    "floors": [floors],
+    "waterfront": [waterfront],
+    "view": [view],
+    "condition": [condition],
+    "sqft_above": [sqft_above],
+    "sqft_basement": [sqft_basement],
+    "yr_built": [yr_built],
+    "yr_renovated": [yr_renovated]
+})
+    
 
     prediction = model.predict(features)
 
